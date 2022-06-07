@@ -1,0 +1,23 @@
+{
+  "name": "development-programming-language",
+  "version": "1.0.0",
+  "description": "极客时间 | 《手把手带你写一门编程语言》课程实践",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZXinL-CN/Development-programming-language.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZXinL-CN/Development-programming-language/issues"
+  },
+  "homepage": "https://github.com/ZXinL-CN/Development-programming-language#readme",
+  "dependencies": {
+    "@types/node": "^17.0.40"
+  }
+}
